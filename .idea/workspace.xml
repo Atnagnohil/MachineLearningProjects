@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60aad6d9-37f5-4f13-83ce-55f58d69299b" name="更改" comment="&quot;Initial commit&quot;">
-      <change afterPath="$PROJECT_DIR$/机器学习/Tatanic/tatanic_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/Tatanic/决策树的模型评估标准.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/机器学习/Tatanic/tatanic_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/Tatanic/tatanic_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/Tatanic/tatanic_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/Tatanic/tatanic_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,28 +68,28 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.2.1逻辑回归.executor": "Run",
-    "Python.2.3使用sklearn实现逻辑回归.executor": "Run",
-    "Python.2.4逻辑回归-鸢尾花分类.executor": "Run",
-    "Python.2.5逻辑回归-手写数字识别.executor": "Run",
-    "Python.2.6逻辑回归-使用训练的模型进行数字识别.executor": "Run",
-    "Python.3-1决策树-熵.executor": "Run",
-    "Python.3-2决策树-ID3算法构建决策树.executor": "Run",
-    "Python.3-3决策树-C4.5算法构建决策树.executor": "Run",
-    "Python.3-4决策树-Sklearn实现决策树.executor": "Run",
-    "Python.3-5决策树-个人信用风险评估.executor": "Run",
-    "Python.Boston房价预测.executor": "Run",
-    "Python.tatanic_1.executor": "Run",
-    "Python.tatanic_2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/python/PycharmProjects/PyProject2",
-    "settings.editor.selected.configurable": "fileTemplates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.2.1逻辑回归.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.3使用sklearn实现逻辑回归.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.4逻辑回归-鸢尾花分类.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.5逻辑回归-手写数字识别.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.6逻辑回归-使用训练的模型进行数字识别.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3-1决策树-熵.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3-2决策树-ID3算法构建决策树.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3-3决策树-C4.5算法构建决策树.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3-4决策树-Sklearn实现决策树.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3-5决策树-个人信用风险评估.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Boston房价预测.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tatanic_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tatanic_2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/python/PycharmProjects/PyProject2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\python\PycharmProjects\PyProject2\机器学习\Tatanic\Data" />

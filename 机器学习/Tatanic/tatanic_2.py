@@ -4,13 +4,14 @@
 @author:  andinm
 '''
 
-import pandas as pd
 import numpy as np
 import joblib
 from tatanic_1 import loadData, processData
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.metrics import accuracy_score, classification_report
+from sklearn.tree import export_graphviz
+import graphviz
 
 dfTrain, dfTest = loadData()
 X, y, XPre, ComIdx, PreIdx = processData(dfTrain)
@@ -131,3 +132,19 @@ weighted avg       0.79      0.78      0.78       179
 weighted avg       0.82      0.80      0.81       179
 
 '''
+
+export_graphviz(
+    bestTreeModel,
+    out_file="tree.dot",
+    feature_names=featuresForClassification,
+    class_names=['yes','no'],
+    rounded=True,
+    filled=True
+)
+
+with open("tree.dot") as f:
+    dot_grapth = f.read()
+dot = graphviz.Source(dot_grapth)
+dot.view()
+
+
