@@ -391,3 +391,5 @@ if __name__ == "__main__":
     # 将OptStruct对象 (oS) 传递给绘图函数，用于基于核的绘图
     plotDesignSurface(np.asmatrix(dataMatIn), classLabels, oS)
     plotSupportVector(np.asmatrix(dataMatIn), classLabels, oS)
+
+
