@@ -5,58 +5,105 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60aad6d9-37f5-4f13-83ce-55f58d69299b" name="更改" comment="&quot;Initial commit&quot;">
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/5-5 垃圾邮件识别.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/6-1 SVM实现--easy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/6-2 SVM改进.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/6-3 SVM引入核函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/6-4 SVM引入核函数AI版.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/Data/svm1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/Data/svm2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/Data/svm3.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/1线性回归/1-1线性回归-递归下降算法.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/1 Linear Regression 线性回归/1-1线性回归-递归下降算法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/1线性回归/1-2线性回归-梯度下降法实现线性回归.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/1 Linear Regression 线性回归/1-2线性回归-梯度下降法实现线性回归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/1线性回归/1-3线性回归-Ridge回归.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/1 Linear Regression 线性回归/1-3线性回归-Ridge回归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/1线性回归/1-4线性回归-Lasso回归.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/1 Linear Regression 线性回归/1-4线性回归-Lasso回归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/1线性回归/1-5线性回归-最小二乘法求线性回归.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/1 Linear Regression 线性回归/1-5线性回归-最小二乘法求线性回归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/1线性回归/1-6使用sklearn实现线性回归.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/1 Linear Regression 线性回归/1-6使用sklearn实现线性回归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/1线性回归/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/1 Linear Regression 线性回归/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/1线性回归/Boston房价预测.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/1 Linear Regression 线性回归/Boston房价预测.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/1线性回归/Data/boston.xls" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/1 Linear Regression 线性回归/Data/boston.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/1线性回归/Data/data1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/1 Linear Regression 线性回归/Data/data1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/1线性回归/boston_ridge_model_pipeline.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/1 Linear Regression 线性回归/boston_ridge_model_pipeline.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/2逻辑回归/2.1逻辑回归.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/2 Logistic Regression 逻辑回归/2.1逻辑回归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/2逻辑回归/2.2逻辑回归-正则化.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/2 Logistic Regression 逻辑回归/2.2逻辑回归-正则化.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/2逻辑回归/2.3使用sklearn实现逻辑回归.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/2 Logistic Regression 逻辑回归/2.3使用sklearn实现逻辑回归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/2逻辑回归/2.4逻辑回归-鸢尾花分类.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/2 Logistic Regression 逻辑回归/2.4逻辑回归-鸢尾花分类.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/2逻辑回归/2.5逻辑回归-手写数字识别.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/2 Logistic Regression 逻辑回归/2.5逻辑回归-手写数字识别.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/2逻辑回归/Data/data1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/2 Logistic Regression 逻辑回归/Data/data1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/2逻辑回归/Data/minist/t10k-images.idx3-ubyte" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/2 Logistic Regression 逻辑回归/Data/minist/t10k-images.idx3-ubyte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/2逻辑回归/Data/minist/t10k-labels.idx1-ubyte" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/2 Logistic Regression 逻辑回归/Data/minist/t10k-labels.idx1-ubyte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/2逻辑回归/Data/minist/train-images.idx3-ubyte" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/2 Logistic Regression 逻辑回归/Data/minist/train-images.idx3-ubyte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/2逻辑回归/Data/minist/train-labels.idx1-ubyte" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/2 Logistic Regression 逻辑回归/Data/minist/train-labels.idx1-ubyte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/2逻辑回归/digit_recognition_model.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/2 Logistic Regression 逻辑回归/digit_recognition_model.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/2逻辑回归/tool/Read_Minist_Tool.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/2 Logistic Regression 逻辑回归/tool/Read_Minist_Tool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/3决策树/3-1决策树-熵.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/3 Desicision Tree 决策树/3-1决策树-熵.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/3决策树/3-2决策树-ID3算法构建决策树.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/3 Desicision Tree 决策树/3-2决策树-ID3算法构建决策树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/3决策树/3-3决策树-C4.5算法构建决策树.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/3 Desicision Tree 决策树/3-3决策树-C4.5算法构建决策树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/3决策树/3-4决策树-Sklearn实现决策树.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/3 Desicision Tree 决策树/3-4决策树-Sklearn实现决策树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/3决策树/3-5决策树-个人信用风险评估.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/3 Desicision Tree 决策树/3-5决策树-个人信用风险评估.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/3决策树/Data/german_credit.csv" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/3 Desicision Tree 决策树/Data/german_credit.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/3决策树/Source.gv" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/3 Desicision Tree 决策树/Source.gv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/3决策树/Source.gv.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/3 Desicision Tree 决策树/Source.gv.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/3决策树/tree.dot" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/3 Desicision Tree 决策树/tree.dot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/3决策树/关于ID3算法为什么需要在特征都是同一数值或者信息增益很小的时候不在继续创建子节点.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/3 Desicision Tree 决策树/关于ID3算法为什么需要在特征都是同一数值或者信息增益很小的时候不在继续创建子节点.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/5-1 朴素贝叶斯代码实现-version2.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/5-1 朴素贝叶斯代码实现-version2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/5-1 朴素贝叶斯代码实现.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/5-1 朴素贝叶斯代码实现.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/5-2 拉普拉斯修正后的朴素贝叶斯-version2.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/5-2 拉普拉斯修正后的朴素贝叶斯-version2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/5-2 拉普拉斯修正后的朴素贝叶斯.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/5-2 拉普拉斯修正后的朴素贝叶斯.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/5-3 Skleatn实现朴素贝叶斯.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/5-3 Skleatn实现朴素贝叶斯.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/5-4 朴素贝叶斯实现鸢尾花.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/5-4 朴素贝叶斯实现鸢尾花.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/5-5 垃圾邮件识别.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/5-5 垃圾邮件识别.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/ham/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/ham/10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/ham/11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/ham/12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/ham/13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/ham/14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/ham/15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/ham/16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/ham/17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/ham/18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/ham/19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/ham/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/ham/20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/ham/21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/ham/22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/ham/23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/ham/24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/ham/25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/ham/3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/ham/4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/ham/5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/ham/6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/ham/7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/ham/8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/ham/9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/ham/9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/spam/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/spam/10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/spam/11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/spam/12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/spam/13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/spam/14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/spam/15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/spam/16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/spam/17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/spam/18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/spam/19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/spam/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/spam/20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/spam/21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/spam/22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/spam/23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/spam/24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/spam/25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/spam/3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/spam/4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/spam/5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/spam/6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/spam/7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/spam/8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/Data/email/spam/9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/Data/email/spam/9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5贝叶斯决策/理解5-5朴素贝叶斯中的 alpha 参数：为什么小是好事？.md" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/理解5-5朴素贝叶斯中的 alpha 参数：为什么小是好事？.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,6 +167,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.1 (1).executor": "Run",
+    "Python.1.executor": "Run",
     "Python.2.1逻辑回归.executor": "Run",
     "Python.2.3使用sklearn实现逻辑回归.executor": "Run",
     "Python.2.4逻辑回归-鸢尾花分类.executor": "Run",
@@ -137,27 +186,31 @@
     "Python.5-3 Skleatn实现朴素贝叶斯.executor": "Run",
     "Python.5-4 朴素贝叶斯实现鸢尾花.executor": "Run",
     "Python.5-5 垃圾邮件识别.executor": "Run",
+    "Python.6-1 SVM实现--easy.executor": "Run",
+    "Python.6-2 SVM改进.executor": "Run",
+    "Python.6-3 SVM引入核函数.executor": "Run",
+    "Python.6-4 SVM引入核函数AI版.executor": "Run",
     "Python.Boston房价预测.executor": "Run",
     "Python.tatanic_1.executor": "Run",
     "Python.tatanic_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/python/PycharmProjects/PythonProject1",
+    "last_opened_file_path": "D:/python/PycharmProjects/PyProject2/机器学习/6 Support Vector Machine 支持向量机",
     "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\PycharmProjects\PyProject2\机器学习\6 Support Vector Machine 支持向量机" />
       <recent name="D:\python\PycharmProjects\PyProject2\机器学习\5贝叶斯决策" />
       <recent name="D:\python\PycharmProjects\PyProject2\机器学习\Tatanic\Data" />
       <recent name="D:\python\PycharmProjects\PyProject2\机器学习\3决策树\Data" />
       <recent name="D:\python\PycharmProjects\PyProject2\机器学习\2逻辑回归\Data" />
-      <recent name="D:\python\PycharmProjects\PyProject2\机器学习\2逻辑回归" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.5-5 垃圾邮件识别">
-    <configuration name="5-2 拉普拉斯修正后的朴素贝叶斯-version2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.6-3 SVM引入核函数">
+    <configuration name="1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,11 +219,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/5贝叶斯决策" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/5贝叶斯决策/5-2 拉普拉斯修正后的朴素贝叶斯-version2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,7 +232,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5-2 拉普拉斯修正后的朴素贝叶斯" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6-1 SVM实现--easy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,11 +241,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/5贝叶斯决策" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/5贝叶斯决策/5-2 拉普拉斯修正后的朴素贝叶斯.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/6-1 SVM实现--easy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,7 +254,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5-3 Skleatn实现朴素贝叶斯" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6-2 SVM改进" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -210,11 +263,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/5贝叶斯决策" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/5贝叶斯决策/5-3 Skleatn实现朴素贝叶斯.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/6-2 SVM改进.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,7 +276,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5-4 朴素贝叶斯实现鸢尾花" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6-3 SVM引入核函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -232,11 +285,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/5贝叶斯决策" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/5贝叶斯决策/5-4 朴素贝叶斯实现鸢尾花.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/6-3 SVM引入核函数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,7 +298,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5-5 垃圾邮件识别" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6-4 SVM引入核函数AI版" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -254,11 +307,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/5贝叶斯决策" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/5贝叶斯决策/5-5 垃圾邮件识别.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/6-4 SVM引入核函数AI版.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,11 +322,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.5-5 垃圾邮件识别" />
-        <item itemvalue="Python.5-4 朴素贝叶斯实现鸢尾花" />
-        <item itemvalue="Python.5-3 Skleatn实现朴素贝叶斯" />
-        <item itemvalue="Python.5-2 拉普拉斯修正后的朴素贝叶斯-version2" />
-        <item itemvalue="Python.5-2 拉普拉斯修正后的朴素贝叶斯" />
+        <item itemvalue="Python.6-3 SVM引入核函数" />
+        <item itemvalue="Python.6-4 SVM引入核函数AI版" />
+        <item itemvalue="Python.6-2 SVM改进" />
+        <item itemvalue="Python.1 (1)" />
+        <item itemvalue="Python.6-1 SVM实现--easy" />
       </list>
     </recent_temporary>
   </component>

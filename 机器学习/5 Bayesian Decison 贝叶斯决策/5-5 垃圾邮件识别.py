@@ -8,7 +8,6 @@ from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn import naive_bayes as nb
 from sklearn.metrics import accuracy_score
 import numpy as np
-import os
 
 
 def createVocabList(dateSet):
