@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60aad6d9-37f5-4f13-83ce-55f58d69299b" name="更改" comment="&quot;Initial commit&quot;">
-      <change afterPath="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/6-9 SVM实现人脸识别.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/5-4 朴素贝叶斯实现鸢尾花.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/5-4 朴素贝叶斯实现鸢尾花.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/5-5 垃圾邮件识别.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/5-5 垃圾邮件识别.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/SVM不同参数分类效果可视化分析.md" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/6-8 SVM不同参数分类效果可视化分析.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/svm调参.png" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/6-8 svm调参.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
