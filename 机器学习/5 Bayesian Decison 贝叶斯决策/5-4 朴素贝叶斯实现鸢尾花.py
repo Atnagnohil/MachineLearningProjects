@@ -6,8 +6,14 @@
 
 from sklearn.datasets import load_iris
 from sklearn import naive_bayes as nb
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 from sklearn.model_selection import train_test_split, GridSearchCV
+import seaborn as sns;sns.set()
+import matplotlib.pyplot as plt
+plt.rcParams['font.sans-serif'] = ['SimHei']
+# 解决负号'-'显示为方块的问题
+plt.rcParams['axes.unicode_minus'] = False
+
 import numpy as np
 def loadData():
     iris = load_iris()
@@ -46,15 +52,28 @@ def trainModel(XTrain, yTrain):
 
     return grid_search.best_estimator_  # 返回最佳模型
 
-def Assess(XTest, yTest, model):
+def Assess(XTest, yTest, model, label):
     y_hat = model.predict(XTest)
+    # 打印预测报告
+    print(classification_report(yTest, y_hat))
+
+    # 绘制混淆矩阵
+    mat = confusion_matrix(yTest, y_hat)
+    sns.heatmap(mat.T, square=True, annot=True, fmt='d', cbar=False,
+                xticklabels=label,
+                yticklabels=label)
+    plt.xlabel('true label')
+    plt.ylabel('predicted label')
+    plt.show()
+
     print(f"accuracy_score: {accuracy_score(y_hat, yTest)}")
 
 if __name__ == "__main__":
     X, y = loadData()
+    label = ["山鸢尾", "杂色鸢尾", "维吉尼亚鸢尾"]
     XTrain, XTest, yTrain, yTest = dataSplit(X, y)
     model = trainModel(XTrain, yTrain)
-    Assess(XTest, yTest, model)
+    Assess(XTest, yTest, model, label)
 
 
 

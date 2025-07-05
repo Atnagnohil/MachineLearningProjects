@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60aad6d9-37f5-4f13-83ce-55f58d69299b" name="更改" comment="&quot;Initial commit&quot;">
-      <change afterPath="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/6-5 sklearn实现SVM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/6-6 sklearn实现SVM2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/6-7 sklearn 引入高斯核.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/6-9 SVM实现人脸识别.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/5-4 朴素贝叶斯实现鸢尾花.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/5-4 朴素贝叶斯实现鸢尾花.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/5-5 垃圾邮件识别.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/5-5 垃圾邮件识别.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/SVM不同参数分类效果可视化分析.md" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/6-8 SVM不同参数分类效果可视化分析.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/svm调参.png" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/6-8 svm调参.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,13 +100,15 @@
     "Python.6-5 sklearn实现SVM.executor": "Run",
     "Python.6-6 sklearn实现SVM2.executor": "Run",
     "Python.6-7 sklearn 引入高斯核.executor": "Run",
+    "Python.6-8 SVM调参技巧.executor": "Run",
+    "Python.6-9 SVM实现人脸识别.executor": "Run",
     "Python.Boston房价预测.executor": "Run",
     "Python.tatanic_1.executor": "Run",
     "Python.tatanic_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/python/PycharmProjects/PyProject2/机器学习/6 Support Vector Machine 支持向量机",
+    "last_opened_file_path": "D:/python/PycharmProjects/PyProject",
     "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
@@ -117,8 +121,8 @@
       <recent name="D:\python\PycharmProjects\PyProject2\机器学习\2逻辑回归\Data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.6-8 SVM调参技巧">
-    <configuration name="6-3 SVM引入核函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.6-9 SVM实现人脸识别">
+    <configuration name="2.4逻辑回归-鸢尾花分类" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/2 Logistic Regression 逻辑回归" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/6-3 SVM引入核函数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/2 Logistic Regression 逻辑回归/2.4逻辑回归-鸢尾花分类.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6-5 sklearn实现SVM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5-4 朴素贝叶斯实现鸢尾花" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/6-5 sklearn实现SVM.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/5-4 朴素贝叶斯实现鸢尾花.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6-6 sklearn实现SVM2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5-5 垃圾邮件识别" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,33 +175,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/6-6 sklearn实现SVM2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="6-7 sklearn 引入高斯核" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyProject2" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/6-7 sklearn 引入高斯核.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/5 Bayesian Decison 贝叶斯决策/5-5 垃圾邮件识别.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,13 +210,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="6-9 SVM实现人脸识别" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyProject2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/6-9 SVM实现人脸识别.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6-9 SVM实现人脸识别" />
+        <item itemvalue="Python.5-4 朴素贝叶斯实现鸢尾花" />
+        <item itemvalue="Python.2.4逻辑回归-鸢尾花分类" />
+        <item itemvalue="Python.5-5 垃圾邮件识别" />
         <item itemvalue="Python.6-8 SVM调参技巧" />
-        <item itemvalue="Python.6-7 sklearn 引入高斯核" />
-        <item itemvalue="Python.6-6 sklearn实现SVM2" />
-        <item itemvalue="Python.6-5 sklearn实现SVM" />
-        <item itemvalue="Python.6-3 SVM引入核函数" />
       </list>
     </recent_temporary>
   </component>

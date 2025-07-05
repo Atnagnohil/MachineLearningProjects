@@ -6,7 +6,7 @@
 
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn import naive_bayes as nb
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score, classification_report
 import numpy as np
 
 
@@ -97,17 +97,33 @@ def trainModel(Xtrain, yTrain):
 
 def Assess(model, XTest, yTest):
     y_hat = model.predict(XTest)
-    return accuracy_score(y_hat, yTest)
+
+    return accuracy_score(y_hat, yTest), y_hat
 
 if __name__ == "__main__":
     X, classList, vocabList = loadData()
     # 分割数据集
     XTrain, XTest, yTrain, yTest = splitData(X, classList)
     bestModel, bestParam, bestScore = trainModel(XTrain, yTrain)
-    scoreOfTest = Assess(bestModel, XTest, yTest)
+    scoreOfTest, yHat = Assess(bestModel, XTest, yTest)
     print(f"最佳参数: {bestParam}")
     print(f"最佳交叉验证正确率: {bestScore:.4%}")
     print(f"在测试集模型的正确率: {scoreOfTest: .4%}")
+
+    ### 打印分类效果报告，他会列举每个标签的统计结果，从而对评估器的性能有更全面的认识
+    print(classification_report(yTest, yHat))
+    '''precision    recall  f1-score   support
+
+           0       0.83      1.00      0.91         5
+           1       1.00      0.80      0.89         5
+
+    accuracy                           0.90        10
+   macro avg       0.92      0.90      0.90        10
+weighted avg       0.92      0.90      0.90        10
+
+'''
+
+
 
 
 
