@@ -15,7 +15,7 @@ from sklearn.datasets import load_iris
 # 加载数据集
 iris = load_iris()
 # print(iris)
-X_Orign = iris['data']
+X_Orign = iris['Data']
 y = iris["target"]  # y设置为一位数组 防止警告
 # print(X_Orign)
 # print(y)

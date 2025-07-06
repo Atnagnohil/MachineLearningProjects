@@ -27,7 +27,7 @@ if __name__ == "__main__":
 
 ### 3. 数据加载与准备
 ```python
-data = pd.read_csv('data/svm3.txt', sep='\t', header=None)
+data = pd.read_csv('Data/svm3.txt', sep='\t', header=None)
 x, y = data[[0, 1]], data[2]
 ```
 - 从文本文件读取数据，制表符分隔

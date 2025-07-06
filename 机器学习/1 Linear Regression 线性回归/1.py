@@ -4,10 +4,10 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
 
 # def loadData():
-#     data = np.loadtxt(f"Data/data1.txt", delimiter=',')
-#     n = data.shape[1] - 1
-#     X = data[:, 0:n]
-#     y = data[:, -1] # 不 reshape 为列向量
+#     Data = np.loadtxt(f"Data/data1.txt", delimiter=',')
+#     n = Data.shape[1] - 1
+#     X = Data[:, 0:n]
+#     y = Data[:, -1] # 不 reshape 为列向量
 #     return X, y
 # X, y = loadData()
 #
