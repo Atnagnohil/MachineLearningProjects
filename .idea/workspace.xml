@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60aad6d9-37f5-4f13-83ce-55f58d69299b" name="更改" comment="&quot;Initial commit&quot;">
-      <change afterPath="$PROJECT_DIR$/机器学习/7 K-means/7-3 sklearn 实现层次聚类AI版.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/7 K-means/7-3 sklearn实现层次聚类.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/7 K-means/7-3-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/7 K-means/7-4 sklearn实现密度聚类.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/7 K-means/7-3 sklearn 实现层次聚类AI版.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/7 K-means/7-3 sklearn 实现层次聚类AI版.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/机器学习/7 K-means/7-3 sklearn实现层次聚类.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/7 K-means/7-3 sklearn实现层次聚类.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +102,7 @@
     "Python.7-1 kmeans代码实现.executor": "Run",
     "Python.7-2 sklearn实现Kmeans.executor": "Run",
     "Python.7-3 sklearn 实现层次聚类.executor": "Run",
+    "Python.7-3 sklearn 实现层次聚类AI版 (1).executor": "Run",
     "Python.7-3 sklearn实现层次聚类.executor": "Run",
     "Python.7-4 sklearn实现密度聚类.executor": "Run",
     "Python.Boston房价预测.executor": "Run",
@@ -125,7 +124,7 @@
       <recent name="D:\python\PycharmProjects\PyProject2\机器学习\3决策树\Data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.7-4 sklearn实现密度聚类">
+  <component name="RunManager" selected="Python.7-3 sklearn 实现层次聚类AI版 (1)">
     <configuration name="6-6 sklearn实现SVM2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyProject2" />
       <option name="ENV_FILES" value="" />
@@ -148,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6-8 SVM调参技巧" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="7-3 sklearn 实现层次聚类AI版 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,11 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/7 K-means" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机/6-8 SVM调参技巧.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/7 K-means/7-3 sklearn 实现层次聚类AI版.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,11 +237,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.7-4 sklearn实现密度聚类" />
+        <item itemvalue="Python.7-3 sklearn 实现层次聚类AI版 (1)" />
         <item itemvalue="Python.7-3 sklearn实现层次聚类" />
+        <item itemvalue="Python.7-4 sklearn实现密度聚类" />
         <item itemvalue="Python.7-3 sklearn 实现层次聚类AI版" />
         <item itemvalue="Python.6-6 sklearn实现SVM2" />
-        <item itemvalue="Python.6-8 SVM调参技巧" />
       </list>
     </recent_temporary>
   </component>

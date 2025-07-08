@@ -35,6 +35,7 @@ if __name__ == "__main__":
     X = loadData()
     # print(X.shape)
     labels = trainModel(X)
+    print(labels)
     draw(labels)
 
 
