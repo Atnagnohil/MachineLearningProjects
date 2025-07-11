@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60aad6d9-37f5-4f13-83ce-55f58d69299b" name="更改" comment="&quot;Initial commit&quot;">
-      <change afterPath="$PROJECT_DIR$/机器学习/7 K-means/7-5 高斯混合模型.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/7 K-means/7-6 sklearn 实现高斯混合模型.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/7 K-means/对亚洲足球队进行聚类分析.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器学习/8 PCA 主成分分析/8-1 基于协方差矩阵的特征值分解算法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器学习/8 PCA 主成分分析/8-2 基于数据矩阵的奇异值分解算法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器学习/8 PCA 主成分分析/Data/jjq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器学习/8 PCA 主成分分析/Data/pca_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器学习/8 PCA 主成分分析/使用sklearn实现PCA.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,6 +110,8 @@
     "Python.7-4 sklearn实现密度聚类.executor": "Run",
     "Python.7-5 高斯混合模型.executor": "Run",
     "Python.7-6 sklearn 实现高斯混合模型.executor": "Run",
+    "Python.8-1 基于协方差矩阵的特征值分解算法.executor": "Run",
+    "Python.8-2 基于数据矩阵的奇异值分解算法.executor": "Run",
     "Python.Boston房价预测.executor": "Run",
     "Python.tatanic_1.executor": "Run",
     "Python.tatanic_2.executor": "Run",
@@ -115,20 +119,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/python/PycharmProjects/PyProject2/机器学习/7 K-means",
+    "last_opened_file_path": "D:/python/PycharmProjects/PyProject2/机器学习/8 PCA 主成分分析",
     "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\PycharmProjects\PyProject2\机器学习\8 PCA 主成分分析" />
       <recent name="D:\python\PycharmProjects\PyProject2\机器学习\7 K-means" />
       <recent name="D:\python\PycharmProjects\PyProject2\机器学习\6 Support Vector Machine 支持向量机" />
       <recent name="D:\python\PycharmProjects\PyProject2\机器学习\5贝叶斯决策" />
       <recent name="D:\python\PycharmProjects\PyProject2\机器学习\Tatanic\Data" />
-      <recent name="D:\python\PycharmProjects\PyProject2\机器学习\3决策树\Data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.对亚洲足球队进行聚类分析">
+  <component name="RunManager" selected="Python.8-2 基于数据矩阵的奇异值分解算法">
     <configuration name="对亚洲足球队进行聚类分析" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyProject2" />
       <option name="ENV_FILES" value="" />
@@ -143,50 +147,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/7 K-means/对亚洲足球队进行聚类分析.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="7-3 sklearn 实现层次聚类AI版 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyProject2" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/7 K-means" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/7 K-means/7-3 sklearn 实现层次聚类AI版.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="7-3 sklearn实现层次聚类" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyProject2" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/7 K-means" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/7 K-means/7-3 sklearn实现层次聚类.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,13 +199,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="8-1 基于协方差矩阵的特征值分解算法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyProject2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/8 PCA 主成分分析" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/8 PCA 主成分分析/8-1 基于协方差矩阵的特征值分解算法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8-2 基于数据矩阵的奇异值分解算法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyProject2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/8 PCA 主成分分析" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/8 PCA 主成分分析/8-2 基于数据矩阵的奇异值分解算法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.8-2 基于数据矩阵的奇异值分解算法" />
+        <item itemvalue="Python.8-1 基于协方差矩阵的特征值分解算法" />
         <item itemvalue="Python.对亚洲足球队进行聚类分析" />
         <item itemvalue="Python.7-6 sklearn 实现高斯混合模型" />
         <item itemvalue="Python.7-5 高斯混合模型" />
-        <item itemvalue="Python.7-3 sklearn 实现层次聚类AI版 (1)" />
-        <item itemvalue="Python.7-3 sklearn实现层次聚类" />
       </list>
     </recent_temporary>
   </component>
