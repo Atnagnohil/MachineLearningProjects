@@ -31,8 +31,8 @@ def generateData():
     y = np.append(y_m, y_w)
     return data, y
 
-def train(data):
-    g = GaussianMixture(n_components=2, covariance_type='full', tol=1e-6, max_iter=1000)
+def train(data, K):
+    g = GaussianMixture(n_components=K, covariance_type='full', tol=1e-6, max_iter=1000)
     g.fit(data)
     print(u'类别概率:\t', g.weights_[0])
     print(u'均值:\n', g.means_, '\n')
@@ -58,7 +58,7 @@ def access(model, y, data):
 if __name__ == "__main__":
     data, y = generateData()
     # print(data)
-    model = train(data)
+    model = train(data, K)
     access(model, y, data)
 
 

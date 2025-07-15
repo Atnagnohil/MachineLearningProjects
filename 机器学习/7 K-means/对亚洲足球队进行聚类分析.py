@@ -43,8 +43,8 @@ def featureNormalize(df):
     X = df.values
     X = StandardScaler().fit_transform(X)
     return X
-def trainModel(X):
-    model = KMeans(n_clusters=3,max_iter=100)       # 考虑将队伍聚为3类
+def trainModel(X, K):
+    model = KMeans(n_clusters=K, max_iter=100)       # 考虑将队伍聚为3类
     model.fit(X)
     return model
 def display(model, df):
@@ -55,7 +55,7 @@ if __name__ == "__main__":
     df = loadData()
     # print(df)
     X = featureNormalize(df)
-    model = trainModel(X)
+    model = trainModel(X, 2)
     display(model, df)
 
 
