@@ -368,6 +368,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyProject2$9_1_Voting.coverage" NAME="9-1 Voting提高准确度的原因 覆盖结果" MODIFIED="1752638794196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习" />
-    <SUITE FILE_PATH="coverage/PyProject2$9_2_Voting.coverage" NAME="9-2 Voting硬投票分类器 覆盖结果" MODIFIED="1752638799358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习" />
+    <SUITE FILE_PATH="coverage/PyProject2$9_2_Voting.coverage" NAME="9-2 Voting硬投票分类器 覆盖结果" MODIFIED="1752657840572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习" />
   </component>
 </project>
