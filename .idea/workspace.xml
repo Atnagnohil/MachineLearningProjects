@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60aad6d9-37f5-4f13-83ce-55f58d69299b" name="更改" comment="&quot;Initial commit&quot;">
+      <change afterPath="$PROJECT_DIR$/codeWithJupyterNoteBook/case1 银行营销策略分析/代码/case1 银行营销策略分析.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeWithJupyterNoteBook/case1 银行营销策略分析/代码/data/bank-full.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeWithJupyterNoteBook/case1 银行营销策略分析/代码/data/bank-names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeWithJupyterNoteBook/case1 银行营销策略分析/代码/data/bank.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeWithJupyterNoteBook/case1 银行营销策略分析/代码/data/bank.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeWithJupyterNoteBook/case2 信用卡反欺诈模型/代码/Resample.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeWithJupyterNoteBook/case2 信用卡反欺诈模型/代码/case 2 信用卡反欺诈模型.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeWithJupyterNoteBook/case2 信用卡反欺诈模型/代码/data/creditcard.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeWithJupyterNoteBook/case2 信用卡反欺诈模型/代码/data/creditcard.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeWithJupyterNoteBook/case2 信用卡反欺诈模型/代码/images/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeWithJupyterNoteBook/case2 信用卡反欺诈模型/代码/images/02.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeWithJupyterNoteBook/07聚类/代码/07-03-01-K-means代码实现(答案版).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/codeWithJupyterNoteBook/07聚类/代码/07-03-01-K-means代码实现(答案版).ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,84 +80,88 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Python.1 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.1逻辑回归.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.3使用sklearn实现逻辑回归.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.4逻辑回归-鸢尾花分类.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.5逻辑回归-手写数字识别.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.6逻辑回归-使用训练的模型进行数字识别.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3-1决策树-熵.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3-2决策树-ID3算法构建决策树.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3-3决策树-C4.5算法构建决策树.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3-4决策树-Sklearn实现决策树.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3-5决策树-个人信用风险评估.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5-1 朴素贝叶斯代码实现-version2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5-1 朴素贝叶斯代码实现.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5-2 拉普拉斯修正后的朴素贝叶斯-version2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5-2 拉普拉斯修正后的朴素贝叶斯.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5-3 Skleatn实现朴素贝叶斯.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5-4 朴素贝叶斯实现鸢尾花.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5-5 垃圾邮件识别.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6-1 SVM实现--easy.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6-2 SVM改进.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6-3 SVM引入核函数.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6-4 SVM引入核函数AI版.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6-5 sklearn实现SVM.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6-6 sklearn实现SVM2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6-7 sklearn 引入高斯核.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6-8 SVM调参技巧.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6-9 SVM实现人脸识别.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7-1 kmeans代码实现.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7-2 sklearn实现Kmeans.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7-3 sklearn 实现层次聚类.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7-3 sklearn 实现层次聚类AI版 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7-3 sklearn实现层次聚类.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7-4 sklearn实现密度聚类.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7-5 高斯混合模型.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7-6 sklearn 实现高斯混合模型.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8-1 基于协方差矩阵的特征值分解算法.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8-2 基于数据矩阵的奇异值分解算法.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8-3 使用sklearn实现PCA (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.8-4 PCA实现图片压缩.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9-1 Voting提高准确度的原因.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9-1 集成学习提高准确度的原因.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9-2 Voting硬头票分类器.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9-2 Voting硬投票分类器.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9-3 Voting软投票分类器.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9-4 bagging.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9-5 bagging 随机森林的实现.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Boston房价预测.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chat.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chat_client.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chat_server (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.tatanic_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tatanic_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.使用sklearn实现PCA.executor&quot;: &quot;Run&quot;,
-    &quot;Python.对亚洲足球队进行聚类分析.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/python/PycharmProjects/PyProject2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.1 (1).executor": "Run",
+    "Python.1.executor": "Run",
+    "Python.2.1逻辑回归.executor": "Run",
+    "Python.2.3使用sklearn实现逻辑回归.executor": "Run",
+    "Python.2.4逻辑回归-鸢尾花分类.executor": "Run",
+    "Python.2.5逻辑回归-手写数字识别.executor": "Run",
+    "Python.2.6逻辑回归-使用训练的模型进行数字识别.executor": "Run",
+    "Python.3-1决策树-熵.executor": "Run",
+    "Python.3-2决策树-ID3算法构建决策树.executor": "Run",
+    "Python.3-3决策树-C4.5算法构建决策树.executor": "Run",
+    "Python.3-4决策树-Sklearn实现决策树.executor": "Run",
+    "Python.3-5决策树-个人信用风险评估.executor": "Run",
+    "Python.5-1 朴素贝叶斯代码实现-version2.executor": "Run",
+    "Python.5-1 朴素贝叶斯代码实现.executor": "Run",
+    "Python.5-2 拉普拉斯修正后的朴素贝叶斯-version2.executor": "Run",
+    "Python.5-2 拉普拉斯修正后的朴素贝叶斯.executor": "Run",
+    "Python.5-3 Skleatn实现朴素贝叶斯.executor": "Run",
+    "Python.5-4 朴素贝叶斯实现鸢尾花.executor": "Run",
+    "Python.5-5 垃圾邮件识别.executor": "Run",
+    "Python.6-1 SVM实现--easy.executor": "Run",
+    "Python.6-2 SVM改进.executor": "Run",
+    "Python.6-3 SVM引入核函数.executor": "Run",
+    "Python.6-4 SVM引入核函数AI版.executor": "Run",
+    "Python.6-5 sklearn实现SVM.executor": "Run",
+    "Python.6-6 sklearn实现SVM2.executor": "Run",
+    "Python.6-7 sklearn 引入高斯核.executor": "Run",
+    "Python.6-8 SVM调参技巧.executor": "Run",
+    "Python.6-9 SVM实现人脸识别.executor": "Run",
+    "Python.7-1 kmeans代码实现.executor": "Run",
+    "Python.7-2 sklearn实现Kmeans.executor": "Run",
+    "Python.7-3 sklearn 实现层次聚类.executor": "Run",
+    "Python.7-3 sklearn 实现层次聚类AI版 (1).executor": "Run",
+    "Python.7-3 sklearn实现层次聚类.executor": "Run",
+    "Python.7-4 sklearn实现密度聚类.executor": "Run",
+    "Python.7-5 高斯混合模型.executor": "Run",
+    "Python.7-6 sklearn 实现高斯混合模型.executor": "Run",
+    "Python.8-1 基于协方差矩阵的特征值分解算法.executor": "Run",
+    "Python.8-2 基于数据矩阵的奇异值分解算法.executor": "Run",
+    "Python.8-3 使用sklearn实现PCA (1).executor": "Run",
+    "Python.8-4 PCA实现图片压缩.executor": "Run",
+    "Python.9-1 Voting提高准确度的原因.executor": "Run",
+    "Python.9-1 集成学习提高准确度的原因.executor": "Run",
+    "Python.9-2 Voting硬头票分类器.executor": "Run",
+    "Python.9-2 Voting硬投票分类器.executor": "Run",
+    "Python.9-3 Voting软投票分类器.executor": "Run",
+    "Python.9-4 bagging.executor": "Run",
+    "Python.9-5 bagging 随机森林的实现.executor": "Run",
+    "Python.Boston房价预测.executor": "Run",
+    "Python.chat.executor": "Run",
+    "Python.chat_client.executor": "Run",
+    "Python.chat_server (1).executor": "Run",
+    "Python.tatanic_1.executor": "Run",
+    "Python.tatanic_2.executor": "Run",
+    "Python.使用sklearn实现PCA.executor": "Run",
+    "Python.对亚洲足球队进行聚类分析.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/python/PycharmProjects/PyProject2/codeWithJupyterNoteBook",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.intellij.jupyter.py.connections.configurable.JupyterServersConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\PycharmProjects\PyProject2\codeWithJupyterNoteBook" />
+      <recent name="D:\python\PycharmProjects\PyProject2\代码资料汇总" />
+      <recent name="D:\python\PycharmProjects\PyProject2" />
       <recent name="D:\python\PycharmProjects\PyProject2\机器学习\8 PCA 主成分分析" />
       <recent name="D:\python\PycharmProjects\PyProject2\机器学习\7 K-means" />
-      <recent name="D:\python\PycharmProjects\PyProject2\机器学习\6 Support Vector Machine 支持向量机" />
-      <recent name="D:\python\PycharmProjects\PyProject2\机器学习\5贝叶斯决策" />
-      <recent name="D:\python\PycharmProjects\PyProject2\机器学习\Tatanic\Data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python\PycharmProjects\PyProject2\codeWithJupyterNoteBook" />
+      <recent name="D:\python\PycharmProjects\PyProject2\代码资料汇总" />
     </key>
   </component>
   <component name="RunManager" selected="Python.9-2 Voting硬投票分类器">
