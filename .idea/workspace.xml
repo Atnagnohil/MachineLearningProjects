@@ -5,23 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60aad6d9-37f5-4f13-83ce-55f58d69299b" name="更改" comment="&quot;Initial commit&quot;">
-      <change afterPath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-3-1 Boosting-AdaBoost.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-3-2-1 Boosting-GBDT-特例提升树.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-3-2-2 sklearn实现Boosting的提升树.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/Data/agaricus.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/Data/agaricus.txt.test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/Data/agaricus.txt.train" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/Data/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/Data/wine.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/Data/wine_names" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-3-3-1 XGBoost代码实现1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-3-3-2 XGBoost代码实现2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-3-3-2-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-3-3-2-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-4 stacking.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-1 Voting提高准确度的原因.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-1-1 Voting提高准确度的原因.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-2 .png" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-1-2 .png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-2 Voting硬投票分类器.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-1-2 Voting硬投票分类器.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-3 Voting软投票分类器.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-1-3 Voting软投票分类器.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-4 Bagging算法详解：从原理到预测实现.md" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-2-1 Bagging算法详解：从原理到预测实现.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-4 bagging.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-2-1 bagging.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-5 bagging 随机森林的实现.py" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-2-2 bagging 随机森林的实现.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeWithJupyterNoteBook/09集成学习/代码/09-14-XGBoost代码实现1(答案版).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/codeWithJupyterNoteBook/09集成学习/代码/09-14-XGBoost代码实现1(答案版).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeWithJupyterNoteBook/09集成学习/代码/09-16-Stacking 代码实现(答案版).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/codeWithJupyterNoteBook/09集成学习/代码/09-16-Stacking 代码实现(答案版).ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +125,11 @@
     "Python.9-3 Voting软投票分类器.executor": "Run",
     "Python.9-3-1 Boosting-AdaBoost.executor": "Run",
     "Python.9-3-2-1 Boosting-GBDT-特例提升树.executor": "Run",
+    "Python.9-3-2-2 sklearn实现Boosting的提升树.executor": "Run",
+    "Python.9-3-3-1 XGBoost代码实现1.executor": "Run",
+    "Python.9-3-3-2 XGBoost代码实现2.executor": "Run",
     "Python.9-4 bagging.executor": "Run",
+    "Python.9-4 stacking.executor": "Run",
     "Python.9-5 bagging 随机森林的实现.executor": "Run",
     "Python.Boston房价预测.executor": "Run",
     "Python.chat.executor": "Run",
@@ -147,99 +142,30 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/python/PycharmProjects/PyProject2/机器学习/9 Ensemble Learning 集成学习",
+    "last_opened_file_path": "D:/python/PycharmProjects/PyProject2/codeWithJupyterNoteBook/09集成学习/代码",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.notifications",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\PycharmProjects\PyProject2\codeWithJupyterNoteBook\09集成学习\代码" />
       <recent name="D:\python\PycharmProjects\PyProject2\机器学习\9 Ensemble Learning 集成学习" />
       <recent name="D:\python\PycharmProjects\PyProject2\codeWithJupyterNoteBook" />
       <recent name="D:\python\PycharmProjects\PyProject2\代码资料汇总" />
       <recent name="D:\python\PycharmProjects\PyProject2" />
-      <recent name="D:\python\PycharmProjects\PyProject2\机器学习\8 PCA 主成分分析" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\python\PycharmProjects\PyProject2\codeWithJupyterNoteBook" />
       <recent name="D:\python\PycharmProjects\PyProject2\代码资料汇总" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.9-3-1 Boosting-AdaBoost">
-    <configuration name="9-1-1 Voting提高准确度的原因" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyProject2" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\python\PycharmProjects\PyProject2\机器学习\9 Ensemble Learning 集成学习\9-1-1 Voting提高准确度的原因.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="9-1-2 Voting硬投票分类器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyProject2" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\python\PycharmProjects\PyProject2\机器学习\9 Ensemble Learning 集成学习\9-1-2 Voting硬投票分类器.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="9-3-1 Boosting-AdaBoost" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyProject2" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-3-1 Boosting-AdaBoost.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.9-4 stacking">
     <configuration name="9-3-2-1 Boosting-GBDT-特例提升树" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyProject2" />
       <option name="ENV_FILES" value="" />
@@ -263,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="chat_server (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9-3-2-2 sklearn实现Boosting的提升树" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyProject2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -272,12 +198,81 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/chat_server.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-3-2-2 sklearn实现Boosting的提升树.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9-3-3-1 XGBoost代码实现1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyProject2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-3-3-1 XGBoost代码实现1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9-3-3-2 XGBoost代码实现2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyProject2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-3-3-2 XGBoost代码实现2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9-4 stacking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyProject2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-4 stacking.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,11 +283,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.9-3-1 Boosting-AdaBoost" />
+        <item itemvalue="Python.9-4 stacking" />
+        <item itemvalue="Python.9-3-3-2 XGBoost代码实现2" />
+        <item itemvalue="Python.9-3-3-1 XGBoost代码实现1" />
+        <item itemvalue="Python.9-3-2-2 sklearn实现Boosting的提升树" />
         <item itemvalue="Python.9-3-2-1 Boosting-GBDT-特例提升树" />
-        <item itemvalue="Python.9-1-2 Voting硬投票分类器" />
-        <item itemvalue="Python.9-1-1 Voting提高准确度的原因" />
-        <item itemvalue="Python.chat_server (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -314,6 +309,12 @@
       <updated>1748789287485</updated>
       <workItem from="1752636437343" duration="2490000" />
       <workItem from="1752638955977" duration="383000" />
+      <workItem from="1752678588709" duration="694000" />
+      <workItem from="1752679302810" duration="209000" />
+      <workItem from="1752737330283" duration="3997000" />
+      <workItem from="1752826818505" duration="1729000" />
+      <workItem from="1752831269087" duration="5316000" />
+      <workItem from="1752842837767" duration="703000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Initial commit&quot;">
       <option name="closed" value="true" />
@@ -385,13 +386,23 @@
           <line>11</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/codeWithJupyterNoteBook/09集成学习/代码/09-16-Stacking 代码实现(答案版).ipynb</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PyProject2$9_3_2_1_Boosting_GBDT_.coverage" NAME="9-3-2-1 Boosting-GBDT-特例提升树 覆盖结果" MODIFIED="1752678239614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习" />
+    <SUITE FILE_PATH="coverage/PyProject2$9_3_3_1_XGBoost1.coverage" NAME="9-3-3-1 XGBoost代码实现1 覆盖结果" MODIFIED="1752833295374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习" />
+    <SUITE FILE_PATH="coverage/PyProject2$9_3_2_1_Boosting_GBDT_.coverage" NAME="9-3-2-1 Boosting-GBDT-特例提升树 覆盖结果" MODIFIED="1752678830886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习" />
+    <SUITE FILE_PATH="coverage/PyProject2$6_6_sklearnSVM2.coverage" NAME="6-6 sklearn实现SVM2 覆盖结果" MODIFIED="1752679493112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/6 Support Vector Machine 支持向量机" />
     <SUITE FILE_PATH="coverage/PyProject2$9_1_Voting.coverage" NAME="9-1 Voting提高准确度的原因 覆盖结果" MODIFIED="1752638794196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习" />
     <SUITE FILE_PATH="coverage/PyProject2$9_3_1_Boosting_AdaBoost.coverage" NAME="9-3-1 Boosting-AdaBoost 覆盖结果" MODIFIED="1752678360713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习" />
+    <SUITE FILE_PATH="coverage/PyProject2$9_3_2_2_sklearnBoosting.coverage" NAME="9-3-2-2 sklearn实现Boosting的提升树 覆盖结果" MODIFIED="1752679009110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习" />
+    <SUITE FILE_PATH="coverage/PyProject2$9_3_3_2_XGBoost2.coverage" NAME="9-3-3-2 XGBoost代码实现2 覆盖结果" MODIFIED="1752843183536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习" />
     <SUITE FILE_PATH="coverage/PyProject2$9_2_Voting.coverage" NAME="9-2 Voting硬投票分类器 覆盖结果" MODIFIED="1752657840572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习" />
+    <SUITE FILE_PATH="coverage/PyProject2$9_4_stacking.coverage" NAME="9-4 stacking 覆盖结果" MODIFIED="1752843394702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习" />
   </component>
 </project>
