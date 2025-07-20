@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60aad6d9-37f5-4f13-83ce-55f58d69299b" name="更改" comment="&quot;Initial commit&quot;">
+      <change afterPath="$PROJECT_DIR$/机器学习/P-R图.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +46,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Atnagnohil/MachineLearningProjects.git&quot;,
-    &quot;accountId&quot;: &quot;f041196f-4cc5-40e4-b3ae-e09cf61b209c&quot;
+    &quot;accountId&quot;: &quot;fe241cc8-72aa-4962-89e5-25b00b96ea3a&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
@@ -125,6 +126,7 @@
     &quot;Python.9-4 stacking.executor&quot;: &quot;Run&quot;,
     &quot;Python.9-5 bagging 随机森林的实现.executor&quot;: &quot;Run&quot;,
     &quot;Python.Boston房价预测.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P-R图.executor&quot;: &quot;Run&quot;,
     &quot;Python.chat.executor&quot;: &quot;Run&quot;,
     &quot;Python.chat_client.executor&quot;: &quot;Run&quot;,
     &quot;Python.chat_server (1).executor&quot;: &quot;Run&quot;,
@@ -135,7 +137,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/python/PycharmProjects/PyProject2/codeWithJupyterNoteBook/09集成学习/代码&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/python/PycharmProjects/PythonProject1&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -154,34 +157,12 @@
       <recent name="D:\python\PycharmProjects\PyProject2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python\PycharmProjects\PyProject2\机器学习" />
       <recent name="D:\python\PycharmProjects\PyProject2\codeWithJupyterNoteBook" />
       <recent name="D:\python\PycharmProjects\PyProject2\代码资料汇总" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.9-4 stacking">
-    <configuration name="9-3-2-1 Boosting-GBDT-特例提升树" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyProject2" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习/9-3-2-1 Boosting-GBDT-特例提升树.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.P-R图">
     <configuration name="9-3-2-2 sklearn实现Boosting的提升树" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyProject2" />
       <option name="ENV_FILES" value="" />
@@ -274,20 +255,44 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="P-R图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyProject2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/P-R图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.P-R图" />
         <item itemvalue="Python.9-4 stacking" />
         <item itemvalue="Python.9-3-3-2 XGBoost代码实现2" />
         <item itemvalue="Python.9-3-3-1 XGBoost代码实现1" />
         <item itemvalue="Python.9-3-2-2 sklearn实现Boosting的提升树" />
-        <item itemvalue="Python.9-3-2-1 Boosting-GBDT-特例提升树" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444" />
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
       </set>
     </attachedChunks>
   </component>
@@ -308,6 +313,10 @@
       <workItem from="1752831269087" duration="5316000" />
       <workItem from="1752842837767" duration="2355000" />
       <workItem from="1752891840530" duration="830000" />
+      <workItem from="1752896469626" duration="123000" />
+      <workItem from="1753000474988" duration="441000" />
+      <workItem from="1753000926990" duration="435000" />
+      <workItem from="1753001379075" duration="1108000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Initial commit&quot;">
       <option name="closed" value="true" />
@@ -390,6 +399,7 @@
     <SUITE FILE_PATH="coverage/PyProject2$9_3_1_Boosting_AdaBoost.coverage" NAME="9-3-1 Boosting-AdaBoost 覆盖结果" MODIFIED="1752678360713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习" />
     <SUITE FILE_PATH="coverage/PyProject2$9_3_2_2_sklearnBoosting.coverage" NAME="9-3-2-2 sklearn实现Boosting的提升树 覆盖结果" MODIFIED="1752679009110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习" />
     <SUITE FILE_PATH="coverage/PyProject2$9_3_3_2_XGBoost2.coverage" NAME="9-3-3-2 XGBoost代码实现2 覆盖结果" MODIFIED="1752843183536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习" />
+    <SUITE FILE_PATH="coverage/PyProject2$P_R.coverage" NAME="P-R图 覆盖结果" MODIFIED="1753002134300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习" />
     <SUITE FILE_PATH="coverage/PyProject2$9_2_Voting.coverage" NAME="9-2 Voting硬投票分类器 覆盖结果" MODIFIED="1752657840572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习" />
     <SUITE FILE_PATH="coverage/PyProject2$9_4_stacking.coverage" NAME="9-4 stacking 覆盖结果" MODIFIED="1752843609613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/9 Ensemble Learning 集成学习" />
   </component>
